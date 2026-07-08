@@ -62,17 +62,21 @@ Future Enhancement:
 
 ```
 Handwritten_Character_Recognition/
-
-│── app.py
-│── train.ipynb
-│── handwritten_character_recognition.keras
-│── requirements.txt
-│── README.md
-│── sample.png
 │
-├── model/
+├── app.py
+├── train.ipynb
+├── handwritten_character_recognition.keras
+├── requirements.txt
+├── README.md
+├── sample.png
+│
 ├── images/
-└── dataset/
+│   ├── accuracy.png
+│   ├── loss.png
+│   ├── confusion_matrix.png
+│   └── app_screenshot.png
+│
+└── .gitignore
 ```
 
 ---
