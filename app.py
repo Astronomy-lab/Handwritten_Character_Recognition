@@ -8,7 +8,7 @@ from PIL import Image
 # Load Trained Model
 # ============================
 
-model = tf.keras.models.load_model("handwritten_character_recognition.keras")
+model = tf.keras.models.load_model(r"C:\Users\Lenovo\Downloads\GitHub projects\Emotion Recognition from Speech\Handwritten_Character_Recognition\handwritten_character_recognition.keras")
 
 # ============================
 # Streamlit Page
