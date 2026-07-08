@@ -72,6 +72,7 @@ Handwritten_Character_Recognition/
 
 │── train.ipynb
 │── handwritten_character_recognition.keras
+│── handwritten_character_cnn.keras
 │── requirements.txt
 │── README.md
 │── sample.png
