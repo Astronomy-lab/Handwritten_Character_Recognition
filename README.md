@@ -178,6 +178,10 @@ handwritten_character_recognition.keras
 
 ---
 
+## Video link-->
+
+https://drive.google.com/file/d/12vUOUGqLSfYOGm-CdGSEzorH0vyXbC9E/view?usp=drive_link
+
 ## 📈 Results
 
 - Achieves high classification accuracy on handwritten digits.
